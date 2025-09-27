@@ -6,7 +6,7 @@ A collection of project for MLOPS beginners
 https://github.com/visenger/awesome-mlops
 https://github.com/techiescamp/how-to-mlops
 
-# Paper
+# Paper & Book
 - A framework for continuous delivery and automation of machine learning (Google)
 https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 
