@@ -22,3 +22,6 @@ https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html
 - 了解 NCCL 调优以加速 GPU 之间的通信
 https://developer.nvidia.com/zh-cn/blog/understanding-nccl-tuning-to-accelerate-gpu-to-gpu-communication/
 
+
+# MLOps & Kubernetes
+https://mlops-for-all.github.io/en/docs/introduction/why_kubernetes
