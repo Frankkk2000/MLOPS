@@ -7,3 +7,6 @@
 
 # 深度学习常见AllReduce算法图解
 - https://zhuanlan.zhihu.com/p/469942194
+
+# 一文讲清 NCCL 集合通信原理与优化
+https://zhuanlan.zhihu.com/p/720502061 
