@@ -3,8 +3,8 @@ A collection of project for MLOPS beginners
 
 
 # awesome-mlops
-https://github.com/visenger/awesome-mlops
-https://github.com/techiescamp/how-to-mlops
+- https://github.com/visenger/awesome-mlops
+- https://github.com/techiescamp/how-to-mlops
 
 # Paper & Book
 - A framework for continuous delivery and automation of machine learning (Google)
