@@ -8,5 +8,10 @@
 # 深度学习常见AllReduce算法图解
 - https://zhuanlan.zhihu.com/p/469942194
 
-# 一文讲清 NCCL 集合通信原理与优化
-https://zhuanlan.zhihu.com/p/720502061 
+# NCCL
+- 一文讲清 NCCL 集合通信原理与优化 https://zhuanlan.zhihu.com/p/720502061 
+- NVIDIA Collective Communication Library (NCCL) Documentation 
+https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html
+- 了解 NCCL 调优以加速 GPU 之间的通信
+https://developer.nvidia.com/zh-cn/blog/understanding-nccl-tuning-to-accelerate-gpu-to-gpu-communication/
+
