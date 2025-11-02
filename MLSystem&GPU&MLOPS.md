@@ -26,3 +26,9 @@ https://developer.nvidia.com/zh-cn/blog/understanding-nccl-tuning-to-accelerate-
 
 # MLOps & Kubernetes
 https://mlops-for-all.github.io/en/docs/introduction/why_kubernetes
+
+# 高级TensorFlow技术
+https://apxml.com/zh/courses/advanced-tensorflow
+
+# 如何构建大语言模型
+https://apxml.com/zh/courses/how-to-build-a-large-language-model
